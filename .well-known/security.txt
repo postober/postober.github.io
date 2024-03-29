@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:security@postober.nl
+Expires: 2025-04-01T22:00:00.000Z
+Encryption: https://postober.nl/pgp.txt
+Preferred-Languages: nl, en
+Canonical: https://postober.nl/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEl7dw1ispybGC8cx9C7nMQP8SOUwFAmYHC/4ACgkQC7nMQP8S
+OUzPFBAAmH7lPddJJrz4w/th+XapKbAuke2n+a/LQaYr73iOKMRFFAFE8mj91kSM
+uPNQ+X7bdrED53/+n2DD6AgeyCGzTZ/FNfXAuMqPat/7p5HRjXqwZ/x8tbeXUaaZ
+RkN9JX8mFEzcYGdoGw7jcOfncE3x8QpKbwP2LJf8CnWjWcZWycCvLQTBphZTcQOP
+/Ad/CEM6AnCw/DaR3KCbafNoC5rClwFcGCE3Rdh9wLAioSlveAGdC5mHHsDYYxGE
+Tq0zYCU6E18WMD0foHHmryREiJjVxPMWRES6bwyrRfVv1IqX6R64Mz6lENocIuA7
+n9Ccff9hTmOxUVyh6zaRiWzMa3Wmf4E2E2czFLY5v04YeCKy4aaqlKjx521Z5jos
+FfYHb1rrae+vnrkKi048n4Hv357qupAxcWQBtw0rUXRJv3xNWBHr6uYJYER7jcSR
+5BtgKSOrJKae1kTF6uxbzw4SOjUR3nkORzq0Ym6KrdwCp/WQcEuOAniZC+UyF/5B
+oolwa5thufOWedSKuxufUK+OF4CAwvNYHdpbbYdv1MeJaNXc1cVJsR48ACo39M3/
+bliEFUYbpP6ElrIfWdsJlwkeqPQqRa6guRrsiUNmTiTyKpzzCO+uzoR/eHyuXUYS
+AQN1wsGcvbfDSQrOIayVEWjF7l5Prb0sl40OP9kQ6m4YQdu1kaQ=
+=A3cD
+-----END PGP SIGNATURE-----
